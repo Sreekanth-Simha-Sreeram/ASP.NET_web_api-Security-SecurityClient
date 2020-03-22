@@ -1,0 +1,4 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityClient\SecurityClient.BusinessLayer\bin\Debug\SecurityClient.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityClient\SecurityClient.BusinessLayer\bin\Debug\SecurityClient.BusinessLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityClient\SecurityClient.BusinessLayer\obj\Debug\SecurityClient.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityClient\SecurityClient.BusinessLayer\obj\Debug\SecurityClient.BusinessLayer.pdb
